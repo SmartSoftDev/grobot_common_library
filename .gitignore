@@ -1,0 +1,6 @@
+__pycache__
+*.log
+!*/empty_file.log
+*.html
+*.xml
+.vscode
